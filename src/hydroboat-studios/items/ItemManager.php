@@ -23,5 +23,6 @@ class ItemManager {
 
     public function init() {
         ItemFactory::registerItem(new SweetBerries(), true);
-        Item::initCreativeItems();
+        ItemFactory::registerItem(new CrossBow(), true);    
+        \Item::initCreativeItems();
     }
