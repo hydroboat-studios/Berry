@@ -18,5 +18,5 @@
  * This project is licensed under GNU GENERAL PUBLIC LICENSE v3.0
  * It is free to use, and copyright free.
  * 
- * @author HYDROBOAT-STUDIOS
+ * AUTHOR: HYDROBOAT STUDIOS
  
