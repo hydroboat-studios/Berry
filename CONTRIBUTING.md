@@ -1,4 +1,4 @@
-★ Contributing Guidelines
+# ★ Contributing Guidelines
 ⇁ Code Syntax
 
 ⇁ Your code must follow PSR-2 but with a few exceptions.
