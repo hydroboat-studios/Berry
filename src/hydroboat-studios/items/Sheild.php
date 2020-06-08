@@ -2,7 +2,7 @@
 
 /**
  * Berry (c) 2020
- * This project is licensed under GNU LESSER GENERAL PUBLIC LICENSE v3.0
+ * This project is licensed under GNU GENERAL PUBLIC LICENSE v3.0
  * It is free to use, and copyright free.
  *
  * @author hydroboat-studios
