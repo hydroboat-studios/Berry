@@ -6,7 +6,7 @@
  * It is free to use, and copyright free.
  *
  * @author hydroboat-stuudios
- /*
+ */
 
 declare(strict_types=1);
 
