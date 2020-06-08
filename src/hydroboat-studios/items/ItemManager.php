@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace src/hydroboat-studios/items;
+namespace Berry/src/hydroboat-studios/items;
 
 use pocketmine\item\Item;
 use pocketmine\item\ItemFactory;
