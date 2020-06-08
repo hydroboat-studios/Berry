@@ -11,6 +11,6 @@
 
 - It is updated every week
 
-#JOIN OUR DISCORD 
+# JOIN OUR DISCORD 
 - https://discord.gg/dFVxfrw
 
