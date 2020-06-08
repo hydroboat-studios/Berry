@@ -5,7 +5,7 @@
 
 - Adds missing: items,blocks,and features
 
-- It also dosent change anyting 
+- It also dosent change anything
 
 - It also Gemerates: all biomes and Nether.
 
