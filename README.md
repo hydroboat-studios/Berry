@@ -1,4 +1,4 @@
-# Berry ![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
+# Berry 
 ![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
 # what dose it do?
 - Adds working mob api
