@@ -1,3 +1,4 @@
+![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
 # Berry
 
 # What does it do?
