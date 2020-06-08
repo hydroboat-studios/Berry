@@ -1,5 +1,5 @@
-
 <?php
+
 /**
  * Berry (c) 2020
  * This project is licensed under GNU LESSER GENERAL PUBLIC LICENSE v3.0
