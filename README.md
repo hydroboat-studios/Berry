@@ -1,6 +1,6 @@
 # Berry
 ![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
-
+https://github.com/hydroboat-studios/Berry/blob/master/Bee.png
 # WHAT DOSE THE PLUGIN DO
 - Adds working mob api
 
