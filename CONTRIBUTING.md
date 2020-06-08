@@ -1,4 +1,5 @@
 # ★ Contributing Guidelines
+![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
 ⇁ Code Syntax
 
 ⇁ Your code must follow PSR-2 but with a few exceptions.
