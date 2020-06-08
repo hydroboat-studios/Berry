@@ -1,7 +1,6 @@
 # Berry
 ![Logo](https://raw.githubusercontent.com/hydroboat-studios/Berry/master/berry.jpg)
-https://github.com/hydroboat-studios/Berry/blob/master/Bee.png
-# WHAT DOSE THE PLUGIN DO
+# what dose it do?
 - Adds working mob api
 
 - Adds missing: items,blocks,and features
@@ -14,4 +13,7 @@ https://github.com/hydroboat-studios/Berry/blob/master/Bee.png
 
 # JOIN OUR DISCORD 
 - https://discord.gg/dFVxfrw
+
+![logo](https://github.com/hydroboat-studios/Berry/blob/master/Bee.png)
+
 
