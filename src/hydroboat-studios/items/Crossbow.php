@@ -2,7 +2,7 @@
 
 /**
  * Berry (c) 2020
- * This project is licensed under GNU LESSER GENERAL PUBLIC LICENSE v3.0
+ * This project is licensed under GNU GENERAL PUBLIC LICENSE v3.0
  * It is free to use, and copyright free.
  *
  * @author hydroboat-stuudios
@@ -10,7 +10,7 @@
 
 declare(strict_types=1);
 
-namespace src\hydroboat-styudios\items;
+namespace src\hydroboat-studios\items;
 
 use pocketmine\Player;
 use pocketmine\entity\Entity;
