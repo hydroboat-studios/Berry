@@ -1,13 +1,12 @@
 
 <?php
-
 /**
- * Pickle (c) 2020
+ * Berry (c) 2020
  * This project is licensed under GNU LESSER GENERAL PUBLIC LICENSE v3.0
  * It is free to use, and copyright free.
  *
- * @author EncatedLands
- */
+ * @author hydroboat-stuudios
+ /*
 
 declare(strict_types=1);
 
