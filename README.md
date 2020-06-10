@@ -14,6 +14,6 @@
 # JOIN OUR DISCORD 
 - https://discord.gg/dFVxfrw
 
-![logo]()
+
 
 
