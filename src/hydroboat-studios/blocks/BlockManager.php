@@ -2,9 +2,9 @@
 
 declare(strict_types = 1);
 
-namespace CortexPE\block;
+namespace hydroboat-studios\blocks;
 
-use CortexPE\Main;
+use hydroboat-stuios\Main;
 use pocketmine\block\Block;
 use pocketmine\block\BlockFactory;
 
