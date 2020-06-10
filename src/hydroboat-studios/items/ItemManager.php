@@ -14,4 +14,5 @@ class ItemManager {
 		ItemFactory::registerItem(new SweetBerries(), true);
 		ItemFactory::registerItem(new Honeycomb(), true);
 		ItemFactory::registerItem(new HoneyBottle(), true);
+		ItemFactory::registerItem(new Trident(), true);
 	
